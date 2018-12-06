@@ -9,20 +9,6 @@ body {
 a:link, a:visited { color: #b7bd19; text-decoration: none; font-weight: bold; } 
 a:active, a:hover { color: #d8df44; text-decoration: underline; }
 
-/*img {
-	padding: 0px;
-	margin: 0px;
-}
-
-p {
-	margin: 0px;
-	padding: 0px;
-	text-align: justify;
-}
-
-h1 {
-	margin: 0 0 15px 0;
-}*/
 
 .cleaner {
 	clear: both;
@@ -135,10 +121,7 @@ h1 {
 	padding: 0 0 5px 0;
 }
 
-/*#site_top_dishes p {
-	margin: 0px;
-	padding: 0px;
-}*/
+
 
 #site_top_dishes .top_dishes_box {
 	float: left;
